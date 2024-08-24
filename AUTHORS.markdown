@@ -47,3 +47,16 @@ Omission from this list is by no means an attempt to discount your contributions
 Thank you for all of your help!
 
 -Edward Kmett
+//
+tested-with:   GHC == 8.0.2
+             , GHC == 8.2.2
+             , GHC == 8.4.4
+             , GHC == 8.6.5
+             , GHC == 8.8.4
+             , GHC == 8.10.7
+             , GHC == 9.0.2
+             , GHC == 9.2.8
+             , GHC == 9.4.5
+             , GHC == 9.6.2
+             , GHC == 9.8.1
+synopsis:      Lenses, Folds and Traversals
